@@ -20,6 +20,11 @@
        </a> 
 
 
+       <h3>Spotify Playing:</h3>
+
+[![Spotify](https://novatorem-3imbzd4ji-timoves-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31h7eesebkpldhkjlngjowiznqge)
+
+
 
 
 
