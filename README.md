@@ -5,8 +5,10 @@
 [![](https://github-readme-stats.vercel.app/api?username=littxle&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/littxle)
 
 - 🔭 I’m currently working on **Cloudcord**
+-  🔭 I’m currently working on **Cloudcord Bot**
 
 - 🧑‍💻 Developer of **Cloudcord**
+- 🧑‍💻  Developer of **Cloudcord Bot**
 
 - 🧑‍💻 Developer of **Python**
 
