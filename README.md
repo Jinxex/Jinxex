@@ -16,7 +16,7 @@
   
      <center> 
        <a href='https://discord.gg/[VAR8sutF](https://discord.gg/GM9mcK9s2W)'> 
-         <img src="https://discord.c99.nl/widget/theme-1/817435791079768105.png" style='padding: 5px'> 
+         <img src="https://discord.c99.nl/widget/theme-/817435791079768105.png" style='padding: 5px'> 
        </a> 
 
 
