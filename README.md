@@ -5,13 +5,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=littxle&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/littxle)
 
 - 🔭 I’m currently working on **Cloudcord**
--  🔭 I’m currently working on **Cloudcord Bot**
-
-- 🧑‍💻 Developer of **Cloudcord**
-- 🧑‍💻  Developer of **Cloudcord Bot**
-
-- 🧑‍💻 Developer of **Python**
-
 - 📫 How to reach me:
   
    - Send me a Direct Message on [Discord](https://discord.com): [`Ace ✞(tlittxle_)`](https://discord.com/users/817435791079768105) 
