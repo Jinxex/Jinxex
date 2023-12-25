@@ -11,8 +11,8 @@
    - Send me a Direct Message on [Discord](https://discord.com): [`Ace ✞(tlittxle_)`](https://discord.com/users/817435791079768105) 
   
      <center> 
-       <a href='https://discord.gg/[VAR8sutF](https://discord.gg/GM9mcK9s2W)'> 
-         <img src="https://discord.c99.nl/widget/theme-2/817435791079768105.png" style='padding: 5px'> 
+       <a href='https://discord.gg/[VAR8sutF](https://discord.gg/hoff)'> 
+         <img src="https://discord.c99.nl/widget/theme-1/817435791079768105.png" style='padding: 5px'> 
        </a> 
 
 
