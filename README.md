@@ -3,7 +3,7 @@
 
 ### Stats
 [![](https://github-readme-stats.vercel.app/api?username=littxle&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/littxle)
-###  stats langs
+###  stats graph
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=littxle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/littxle)
 
 
