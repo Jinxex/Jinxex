@@ -21,12 +21,16 @@
 ###  stats graph
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=littxle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/littxle)
 
+## mein skill
+**Python Skill Level:** ![====-------](https://progress-bar.dev/100/)
+**javascript Skill Level:** ![====-------](https://progress-bar.dev/70/)
 
-- 🔭 I’m currently working on **Cloudcord**
+
+- 🔭 I’m currently working on **Flexii Development**
 
 - 📫 How to reach me:
   
-   - Send me a Direct Message on [Discord](https://discord.com): [`Ace ✞(tlittxle_)`](https://discord.com/users/817435791079768105) 
+   - Send me a Direct Message on [Discord](https://discord.com): [`Nico(tlittxle_)`](https://discord.com/users/817435791079768105) 
   
      <center> 
        <a href='https://discord.gg/[VAR8sutF](https://discord.gg/hoff)'> 
