@@ -23,6 +23,8 @@
 
 ## mein skill
 **Python Skill Level:** ![====-------](https://progress-bar.dev/100/)
+
+
 **javascript Skill Level:** ![====-------](https://progress-bar.dev/70/)
 
 
