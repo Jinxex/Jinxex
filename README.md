@@ -27,6 +27,8 @@
 
 **javascript Skill Level:** ![====-------](https://progress-bar.dev/70/)
 
+**Github Skill Level:** ![====-------](https://progress-bar.dev/89/)
+
 
 - 🔭 I’m currently working on **Flexii Development**
 
