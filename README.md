@@ -37,7 +37,7 @@
    - Send me a Direct Message on [Discord](https://discord.com): [`Nico(tlittxle_)`](https://discord.com/users/817435791079768105) 
   
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/817435791079768105)](https://discord.com/users/817435791079768105)
+[![Discord Presence](https://lanyard.cnrad.dev/api/817435791079768105)](https://discord.com/users/817435791079768105)
 
 
 
