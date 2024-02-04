@@ -27,7 +27,7 @@
 
 **javascript Skill Level:** ![====-------](https://progress-bar.dev/70/)
 
-**Github Skill Level:** ![====-------](https://progress-bar.dev/89/)
+**Github Skill Level:** ![====-------](https://progress-bar.dev/100/)
 
 
 - 🔭 I’m currently working on **Flexii Development**
@@ -36,10 +36,9 @@
   
    - Send me a Direct Message on [Discord](https://discord.com): [`Nico(tlittxle_)`](https://discord.com/users/817435791079768105) 
   
-     <center> 
-       <a href='https://discord.gg/[VAR8sutF](https://discord.gg/hoff)'> 
-         <img src="https://discord.c99.nl/widget/theme-1/817435791079768105.png" style='padding: 5px'> 
-       </a> 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/817435791079768105)](https://discord.com/users/817435791079768105)
+
 
 
 
