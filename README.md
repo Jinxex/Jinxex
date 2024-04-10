@@ -33,11 +33,11 @@
 **Github Skill Level:** ![====-------](https://progress-bar.dev/100/)
 
 
-- 🔭 I’m currently working on **Flexii Development**
+- 🔭 I’m currently working on **Dark SKY Development**
 
 - 📫 How to reach me:
   
-   - Send me a Direct Message on [Discord](https://discord.com): [`Nico(tlittxle_)`](https://discord.com/users/817435791079768105) 
+   - Send me a Direct Message on [Discord](https://discord.com): [`Dark Sky(xx_dark_sky__)`](https://discord.com/users/817435791079768105) 
   
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/817435791079768105)](https://discord.com/users/817435791079768105)
