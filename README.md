@@ -1,6 +1,9 @@
 # Hi, ich bin Nico!
 ![](https://discord.c99.nl/widget/theme-4/817435791079768105.png)  
 [![Discord](https://img.shields.io/discord/1217082356175863908?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/KMs7TWypSw) 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jinxex;Discord+Bot+Developer;Python+Developer)](https://git.io/typing-svg)
 
 
