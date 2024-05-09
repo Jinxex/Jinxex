@@ -13,7 +13,7 @@ Feel free to join my Discord server by clicking on "Discord"! 🚀
 - I program with Python. 🐍
 - I program with JavaScript. 💻
 - I develop Discord bots. 🤖
-- [My Bot](https://discord.com/oauth2/authorize?client_id=1128673160154320987)
+- [My Bot](https://discord.com/oauth2/authorize?client_id=1231892426331787374&permissions=564069147893846&scope=bot)
 - [My Discord Server](https://discord.gg/KMs7TWypSw)
 
 ## My Stats 📊
@@ -22,7 +22,7 @@ Feel free to join my Discord server by clicking on "Discord"! 🚀
 
 ## My Discord Bot 🤖
 
-[Bot Invitation Link](https://discord.com/oauth2/authorize?client_id=1128673160154320987)
+[Bot Invitation Link](https://discord.com/oauth2/authorize?client_id=1231892426331787374&permissions=564069147893846&scope=bot)
 
 ### Features 🛠️
 
