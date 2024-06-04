@@ -14,7 +14,7 @@ Feel free to join my Discord server by clicking on "Discord"! 🚀
 
 - I program with Python. 🐍
 - I program with JavaScript. 💻
-- i program wirh c# 🐨
+- i program with c# 🐨
 - I develop Discord bots. 🤖
 - I develop games. 🤖
 - [My Bot](https://discord.com/oauth2/authorize?client_id=1231892426331787374&permissions=564069147893846&scope=bot)
