@@ -8,13 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jinxex;Discord+Bot+Developer;JavaScript+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jinxex;Games+Developer;c#+Developer)](https://git.io/typing-svg)
 
 Feel free to join my Discord server by clicking on "Discord"! 🚀
 
 - I program with Python. 🐍
 - I program with JavaScript. 💻
-- i program with c# 🐨
 - I develop Discord bots. 🤖
 - I develop games. 🤖
 - [My Bot](https://discord.com/oauth2/authorize?client_id=1231892426331787374&permissions=564069147893846&scope=bot)
